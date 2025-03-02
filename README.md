@@ -6,6 +6,8 @@ Bu repo, farklı UML diyagram türlerini içermektedir. UML (Unified Modeling La
 
 ### 1️⃣ Use Case Diagram (Kullanım Senaryosu Diyagramı)  
 Kullanım senaryosu diyagramları, bir sistemin kullanıcılarla (aktörlerle) nasıl etkileşime girdiğini gösterir. Kullanıcıların gerçekleştirebileceği işlemler (use case'ler) ve bunların sistemle olan ilişkileri bu diyagramda gösterilir.  
+[Class Diagram](https://github.com/Gokce227/UML-Diyagram-Ornekleri/blob/main/usecaseadmin.vpd.jpg)
+
 
 ### 2️⃣ Class Diagram (Sınıf Diyagramı)  
 Sınıf diyagramı, bir sistemdeki nesneleri, bunların özelliklerini (attributes), davranışlarını (methods) ve ilişkilerini gösterir. Nesne yönelimli programlamada sınıfların yapısını ve bağlantılarını modellemek için kullanılır.  
